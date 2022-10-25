@@ -8,5 +8,6 @@
 .bashrc
 .tmux.conf
 .vimrc
+.viminfo
 DO_NOT_STORE_PERSISTENT_FILES_HERE.md
 id_container
