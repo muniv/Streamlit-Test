@@ -1,0 +1,12 @@
+.cache/
+.config/
+.ipython/
+.jupyter/
+.local/
+.ssh/
+.bash_profile
+.bashrc
+.tmux.conf
+.vimrc
+DO_NOT_STORE_PERSISTENT_FILES_HERE.md
+id_container
